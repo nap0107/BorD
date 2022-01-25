@@ -52,6 +52,7 @@ body {
 }
 
 .season1 > * {
+    padding: 24px 48px;
     display: inline-block;
     text-align: center;
 }

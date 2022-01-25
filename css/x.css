@@ -43,10 +43,6 @@ body {
     padding: 70px;
 }
 
-.footer {
-    padding: 40px;
-}
-
 #mintbutton:hover {
     background-color: rgb(19, 3, 36); /* Add a dark-grey background on hover */
   }

@@ -51,7 +51,10 @@ body {
     background-color: rgb(19, 3, 36); /* Add a dark-grey background on hover */
 }
 
-
+.season1 > * {
+    display: inline-block;
+    text-align: center;
+}
 
 
 

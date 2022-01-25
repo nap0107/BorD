@@ -39,9 +39,7 @@ body {
     right: 20px;
 }
 
-.nav {
-    padding: 70px;
-}
+
 
 #mintbutton:hover {
     background-color: rgb(19, 3, 36); /* Add a dark-grey background on hover */
@@ -56,7 +54,6 @@ body {
     display: inline-block;
     text-align: center;
 }
-
 
 
 

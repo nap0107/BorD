@@ -8,8 +8,11 @@ body {
     color: white;
 }
 
-#logo {
+.main {
     padding-top:180px;
+}
+
+#logo {
     border-radius: 50%;
 }
 
